@@ -3,7 +3,7 @@
 
 {{ $content }}
 
-Thanks,<br>
+Thanks, LOL <br>
 {{ Config::get('setting.app_name') }}
 
 @include('notifications.partials.subscription')
