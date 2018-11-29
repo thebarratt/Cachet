@@ -12,7 +12,7 @@
                 <w:anchorlock/>
                 <center style="color:#ffffff;font-family:sans-serif;font-size:15px;">{!! trans('cachet.subscriber.email.manage') !!}</center>
                 </v:roundrect><![endif]-->
-                <a href="{{ $manage_link }}" class="button button--green">{!! trans('cachet.subscriber.email.manage') !!} TESTING!!! </a>
+                <a href="http://rescachet" class="button button--green"> TESTING!!! </a>
             </div>
         </td>
     </tr>
