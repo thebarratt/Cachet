@@ -222,9 +222,6 @@
                                         @if($show_support)
                                         <p class="sub center">{!! trans('cachet.powered_by') !!}</p>
                                         @endif
-                                        <p class="sub center">
-                                            <a href="http://rescachet">Ligado Cachet!!</a>
-                                        </p>
                                     </td>
                                 </tr>
                             </table>
