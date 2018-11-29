@@ -7,12 +7,12 @@
     <tr>
         <td align="center">
             <div>
-                <!--[if mso]><v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="{{ cachet_route('status-page') }}" style="height:45px;v-text-anchor:middle;width:200px;" arcsize="7%" stroke="f" fill="t">
+                <!--[if mso]><v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="{{ cachet_route('dashboard') }}" style="height:45px;v-text-anchor:middle;width:200px;" arcsize="7%" stroke="f" fill="t">
                 <v:fill type="tile" color="#22BC66" />
                 <w:anchorlock/>
                 <center style="color:#ffffff;font-family:sans-serif;font-size:15px;">{!! trans('cachet.link') !!}</center>
                 </v:roundrect><![endif]-->
-                <a href="{{ cachet_route('status-page') }}" class="button button--green"> trans('cachet.link') </a>
+                <a href="{{ cachet_route('dashboard') }}" class="button button--green"> trans('cachet.link') </a>
             </div>
         </td>
     </tr>
