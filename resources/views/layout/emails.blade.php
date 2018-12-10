@@ -47,17 +47,21 @@
         .email-masthead {
             padding: 25px 0;
             text-align: center;
+            
         }
         .email-masthead_logo {
             max-width: 400px;
             border: 0;
         }
         .email-masthead_name {
-            font-size: 40px;
-            font-weight: bold;
-            color: #bbbfc3;
-            text-decoration: none;
-            text-shadow: 0 1px 0 white;
+            background-color: #f0f0f0;
+            color:#444444;
+            font-family:sans-serif;
+            font-size:10px;
+            line-height:120%;
+            text-align:right;
+            border-collapse: separate !important;
+            padding-right: 30px;
         }
 
         /* Body ------------------------------ */
@@ -199,7 +203,7 @@
                 <table class="email-content" width="100%" cellpadding="0" cellspacing="0">
                     <tr>
                         <td class="email-masthead">
-                            <a class="email-masthead_name">{{ $app_name}} </a>
+                            <a class="email-masthead_name"><img src="{{ asset('img/Ligado_REV_RGB_BlueDotLogo1.png') }}"</a>
                         </td>
                     </tr>
                     <tr>
