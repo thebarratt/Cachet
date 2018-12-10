@@ -45,8 +45,14 @@
 
         /* Masthead ----------------------- */
         .email-masthead {
-            padding: 25px 0;
-            text-align: center;
+            background-color: #f0f0f0;
+            color:#444444;
+            font-family:sans-serif;
+            font-size:10px;
+            line-height:120%;
+            text-align:right;
+            border-collapse: separate !important;
+            padding-right: 30px;
             
         }
         .email-masthead_logo {
@@ -199,7 +205,7 @@
 <body>
     <table class="email-wrapper" width="100%" cellpadding="0" cellspacing="0">
         <tr>
-            <td align="center">
+            <td align="left">
                 <table class="email-content" width="100%" cellpadding="0" cellspacing="0">
                     <tr>
                         <td class="email-masthead">
