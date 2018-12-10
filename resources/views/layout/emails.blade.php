@@ -53,14 +53,8 @@
 
         /* Masthead ----------------------- */
         .email-masthead {
-            background-color: #444444;
-            color:#444444;
-            font-family:sans-serif;
-            font-size:10px;
-            line-height:120%;
-            text-align:left;
-            border-collapse: separate !important;
-            padding-right: 30px;
+            padding: 25px 0;
+            text-align: center;
             
         }
         .email-masthead_logo {
@@ -73,7 +67,7 @@
             font-family:sans-serif;
             font-size:10px;
             line-height:120%;
-            text-align:left;
+            text-align:center;
             border-collapse: separate !important;
             padding-right: 30px;
         }
@@ -216,7 +210,7 @@
             <td align="center">
                 <table class="email-content" width="100%" cellpadding="0" cellspacing="0">
                     <tr>
-                        <td class="email-masthead" color:#444444" align="left">
+                        <td class="email-masthead" color:#444444" align="center">
                             <a class="email-masthead_name"><img src="{{ asset('img/Ligado_REV_RGB_BlueDotLogo1.png') }}"</a>
                         </td>
                     </tr>
