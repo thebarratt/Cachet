@@ -41,6 +41,14 @@
             width: 100%;
             margin: 0;
             padding: 0;
+            background-color: #f0f0f0;
+            color:#444444;
+            font-family:sans-serif;
+            font-size:10px;
+            line-height:120%;
+            text-align:right;
+            border-collapse: separate !important;
+            padding-right: 30px;
         }
 
         /* Masthead ----------------------- */
