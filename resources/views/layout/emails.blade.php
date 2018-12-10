@@ -213,10 +213,10 @@
 <body>
     <table class="email-wrapper" width="100%" cellpadding="0" cellspacing="0">
         <tr>
-            <td align="left">
+            <td align="center">
                 <table class="email-content" width="100%" cellpadding="0" cellspacing="0">
                     <tr>
-                        <td class="email-masthead">
+                        <td class="email-masthead" color:#444444" align="left">
                             <a class="email-masthead_name"><img src="{{ asset('img/Ligado_REV_RGB_BlueDotLogo1.png') }}"</a>
                         </td>
                     </tr>
