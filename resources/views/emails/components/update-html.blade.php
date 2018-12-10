@@ -13,6 +13,8 @@
                 <center style="color:#ffffff;font-family:sans-serif;font-size:15px;">{{ trans('cachet.link') }}</center>
                 </v:roundrect><![endif]-->
                 <a href="http://rescachet/" class="button button--green">{{ trans('cachet.link') }}</a>
+                
+                <a href="{{ $manage_link }}">{!! trans('cachet.subscriber.email.manage') !!}</a>
             </div>
         </td>
     </tr>
