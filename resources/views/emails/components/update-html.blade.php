@@ -12,7 +12,7 @@
                 <w:anchorlock/>
                 <center style="color:#ffffff;font-family:sans-serif;font-size:15px;">{{ trans('cachet.link') }}</center>
                 </v:roundrect><![endif]-->
-                <a href="http://rescachet/" class="button button--green">{{ trans('cachet.link') }}</a>
+                <a href="{{ $app_domain }}" class="button button--green">{{ trans('cachet.link') }}</a>
                 <!--[if mso]><v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="{{ $manage_link }}" style="height:45px;v-text-anchor:middle;width:200px;" arcsize="7%" stroke="f" fill="t">
                 <v:fill type="tile" color="#3498db" />
                 <w:anchorlock/>
