@@ -41,24 +41,24 @@
             width: 100%;
             margin: 0;
             padding: 0;
-            background-color: #f0f0f0;
+            background-color: #444444;
             color:#444444;
             font-family:sans-serif;
             font-size:10px;
             line-height:120%;
-            text-align:right;
+            text-align:left;
             border-collapse: separate !important;
             padding-right: 30px;
         }
 
         /* Masthead ----------------------- */
         .email-masthead {
-            background-color: #f0f0f0;
+            background-color: #444444;
             color:#444444;
             font-family:sans-serif;
             font-size:10px;
             line-height:120%;
-            text-align:right;
+            text-align:left;
             border-collapse: separate !important;
             padding-right: 30px;
             
@@ -68,12 +68,12 @@
             border: 0;
         }
         .email-masthead_name {
-            background-color: #f0f0f0;
+            background-color: #444444;
             color:#444444;
             font-family:sans-serif;
             font-size:10px;
             line-height:120%;
-            text-align:right;
+            text-align:left;
             border-collapse: separate !important;
             padding-right: 30px;
         }
