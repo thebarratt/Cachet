@@ -42,7 +42,7 @@
             margin: 0;
             padding: 0;
             background-color: #444444;
-            color:#444444;
+            color:#16a3b6;
             font-family:sans-serif;
             font-size:10px;
             line-height:120%;
