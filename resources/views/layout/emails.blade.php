@@ -63,15 +63,9 @@
         }
         .email-masthead_name {
             background-color: #444444;
-            color:#16a3b6;
-            font-family:sans-serif;
-            font-size:10px;
-            line-height:120%;
-            text-align:center;
-            border-collapse: separate !important;
-            padding-right: 30px;
             font-size: 40px;
             font-weight: bold;
+            color: #16a3b6;
             text-decoration: none;
             text-shadow: 0 1px 0 white;
         }
