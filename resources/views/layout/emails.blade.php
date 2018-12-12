@@ -62,7 +62,6 @@
             border: 0;
         }
         .email-masthead_name {
-            background-color: #444444;
             font-size: 40px;
             font-weight: bold;
             color: #16a3b6;
