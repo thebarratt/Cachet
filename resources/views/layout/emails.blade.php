@@ -44,7 +44,7 @@
             background-color: #444444;
             color:#16a3b6;
             font-family:sans-serif;
-            font-size:10px;
+            font-size:40px;
             line-height:120%;
             text-align:left;
             border-collapse: separate !important;
